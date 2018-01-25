@@ -1,0 +1,2 @@
+class Paliwo < ApplicationRecord
+end
